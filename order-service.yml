@@ -2,5 +2,5 @@ server:
   port: 8081
 
 order:
-  discount: 25
+  discount: 35
   message: "Order service is running"
