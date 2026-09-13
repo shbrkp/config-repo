@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+payment:
+  timeout: 5000
+  message: "Payment service is running"
